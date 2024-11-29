@@ -12,7 +12,7 @@
 ### DATA SOURCE: 
 The primary dataset used for this Analysis is the "APN file", containing detailed information about each sales made by the company.
 
-###### TOOLS:
+### TOOLS:
 1. Excel: Data cleaning
 2. Power BI: Creating Report
 
