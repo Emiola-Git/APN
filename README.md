@@ -1,4 +1,11 @@
 ## APN SALES ANALYSIS
+
+### OBJECTIVE:
+The APN Sales Analysis dashboard aims to compare the sales performance of three brands: 'Adidas', 'Puma', and 'Nike'.
+It provides insights into the cost price and profit for each brand, total sales across different countries, and tracks
+monthly sales trends. The dashboard is designed to highlight the highest-selling brand, offering a comprehensive view 
+of sales data and profitability.
+
 ### DASHBOARD OVERVIEW
 
 ![OverView APN](https://github.com/user-attachments/assets/c34b864d-4924-42fc-a644-28fb9afacdac)
