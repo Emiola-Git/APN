@@ -29,8 +29,14 @@ of sales data and profitability.
 6. Format Visuals
 
 ### DATA SOURCE: 
-The primary dataset used for this Analysis is the "APN file", containing detailed information about each sales made by the company.
-
+The primary dataset used for this Analysis are the "APN files", containing detailed information about each sales made by the company.
+[Sale.csv](https://github.com/user-attachments/files/17994491/Sale.csv)
+[SaleDetail.csv](https://github.com/user-attachments/files/17994497/SaleDetail.csv)
+[Product.csv](https://github.com/user-attachments/files/17994510/Product.csv)
+[User.csv](https://github.com/user-attachments/files/17994515/User.csv)
+[CompanyLocation.csv](https://github.com/user-attachments/files/17994523/CompanyLocation.csv)
+[IncomeTarget.csv](https://github.com/user-attachments/files/17994525/IncomeTarget.csv)
+[ProductCategory.csv](https://github.com/user-attachments/files/17994549/ProductCategory.csv)
 ### TOOLS:
 1. Excel: Data cleaning
 2. Power BI: Creating Report
