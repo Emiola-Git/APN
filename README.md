@@ -1,5 +1,17 @@
 ## APN SALES ANALYSIS
-![WhatsApp Image 2024-09-19 at 06 39 54 (1)](https://github.com/user-attachments/assets/2bd91413-8581-450a-ab51-87d5efc62fc5)
+### DASHBOARD OVERVIEW
+
+![OverView APN](https://github.com/user-attachments/assets/c34b864d-4924-42fc-a644-28fb9afacdac)
+
+### ADIDAS DASHBOARD 
+
+![Adidas APN](https://github.com/user-attachments/assets/1a7e2f6a-afbc-4fa6-ab2e-fe8acc1a6937)
+
+### PUMA DASHBOARD
+![Puma APN](https://github.com/user-attachments/assets/732708ca-3fb4-451a-92ae-91fa6833c14b)
+
+### NIKE DASHBOARD 
+![Nike APN](https://github.com/user-attachments/assets/12f0481e-b549-4fc4-aee6-e3880169f0d2)
 
 ### STEPS
 1. Import Data to PowerBI
