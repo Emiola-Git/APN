@@ -6,19 +6,20 @@ It provides insights into the cost price and profit for each brand, total sales 
 monthly sales trends. The dashboard is designed to highlight the highest-selling brand, offering a comprehensive view 
 of sales data and profitability.
 
+
 ### DASHBOARD OVERVIEW
 
-![OverView APN](https://github.com/user-attachments/assets/c34b864d-4924-42fc-a644-28fb9afacdac)
+![overview](https://github.com/user-attachments/assets/a38bba60-4ef6-47c6-bc38-5f181d95a992)
 
 ### ADIDAS DASHBOARD 
 
-![Adidas APN](https://github.com/user-attachments/assets/1a7e2f6a-afbc-4fa6-ab2e-fe8acc1a6937)
+![Adidas](https://github.com/user-attachments/assets/437e20e8-3d3b-483e-8dba-f9b881d586cf)
 
 ### PUMA DASHBOARD
-![Puma APN](https://github.com/user-attachments/assets/732708ca-3fb4-451a-92ae-91fa6833c14b)
+![puma](https://github.com/user-attachments/assets/20688454-2a70-4ec8-b34a-e5e337d9cacb)
 
 ### NIKE DASHBOARD 
-![Nike APN](https://github.com/user-attachments/assets/12f0481e-b549-4fc4-aee6-e3880169f0d2)
+![nike](https://github.com/user-attachments/assets/aa63e0d5-dd48-4a51-b679-149e07b6b734)
 
 ### STEPS
 1. Import Data to PowerBI
